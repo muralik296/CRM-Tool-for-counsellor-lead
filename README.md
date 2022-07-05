@@ -1,5 +1,7 @@
 # CRM backend API for counsellor and lead interaction
 
+Node.js, Express.js
+Database: MongoDB
 
 1. The CRM account is associated with each employee/counselor of the company with their
 email id.
